@@ -1,4 +1,4 @@
-// function for tabbar
+// function for tabbar.
 function openCity(evt, cityName) {
   var i, tabcontent, tablinks;
   tabcontent = document.getElementsByClassName("tabcontent");
